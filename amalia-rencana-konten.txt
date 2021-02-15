@@ -3,4 +3,6 @@ RENCANA KONTEN PROGRAMMING :
   1. Memiliki tujuan dan pengingat
 ~Aplikasi alur cerita
   1. Menambahkan sistem database pada firebase untuk menyimpan data alur cerita
+    ^Alur cerita beserta opsi ketiga pilihan
+    ^Background dan gambar karakter
 ~Apps sederhana flutter
