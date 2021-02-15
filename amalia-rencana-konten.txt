@@ -2,4 +2,5 @@ RENCANA KONTEN PROGRAMMING :
 ~Aplikasi to do
   1. Memiliki tujuan dan pengingat
 ~Aplikasi alur cerita
+  1. Menambahkan sistem database pada firebase untuk menyimpan data alur cerita
 ~Apps sederhana flutter
