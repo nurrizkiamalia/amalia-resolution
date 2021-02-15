@@ -1,0 +1,5 @@
+RENCANA KONTEN PROGRAMMING :
+~Aplikasi to do
+  1. Memiliki tujuan dan pengingat
+~Aplikasi alur cerita
+~Apps sederhana flutter
